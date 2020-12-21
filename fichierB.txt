@@ -1,1 +1,3 @@
 contenu du fichier B
+correction fichier b
+correction 2 fichier b
